@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+}
+.totalcard{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.card{
+    margin: 50px;
+    background-color: white;
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+}
+.box{
+    display: flex;
+}
+.image img{
+    width: 330px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.retoname{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.rating{
+    display: flex;
+    color: white;
+    background-color: green;
+    border-radius: 7px;
+    margin-left: 25px;
+}
+.where,.addressreal,.price{
+    color: #696969;
+    font-size: 15px;
+    font-weight: 100;
+    margin-left: 10px;
+}
+.price{
+    margin-left: 145px;
+}
+.distance{
+    margin-left: 105px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.card:hover {
+    background-color: rgb(227, 225, 225);
+     box-shadow: 5px 5px 10px gray;
+}
