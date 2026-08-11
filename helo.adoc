@@ -1,5 +1,0 @@
-# JavaScript Notes
-
-## Variables
-
-JavaScript mein `let`, `const`, aur `var` use hote hain.
