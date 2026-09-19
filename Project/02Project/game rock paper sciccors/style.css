@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#intro {
+    display: flex;
+    font-size: bold;
+    justify-content: center;
+    
+}
+#image{
+    display: flex;
+    width: 100vw;
+    height: 50vh;
+}
+#photo{
+    display: flex;
+    justify-content: center;
+}
+#image1{
+    width: 300px;
+    height: 250px;
+}
+#image2{
+    transform: scaleX(-1);
+    width: 300px;
+    height: 250px;
+}
