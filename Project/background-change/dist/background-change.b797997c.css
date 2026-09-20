@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+#main {
+  background-color: #d97b6d;
+  border-radius: 30px;
+  width: 800px;
+  height: 600px;
+}
+
+#headline {
+  color: #78bebe;
+  justify-content: center;
+  padding-top: 50px;
+  font-size: 35px;
+  display: flex;
+}
+
+#button {
+  justify-content: space-around;
+  padding-top: 300px;
+  display: flex;
+}
+
+#red {
+  background-color: red;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+  font-size: large;
+}
+
+#pink {
+  background-color: pink;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+  font-size: large;
+}
+
+#yellow {
+  background-color: #ff0;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+  font-size: large;
+}
+
+#white {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  font-size: large;
+}
+
+#orange {
+  background-color: orange;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  font-size: large;
+}
+/*# sourceMappingURL=background-change.b797997c.css.map */
