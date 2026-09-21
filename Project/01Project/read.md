@@ -1,3 +1,3 @@
-** Tip Calculator **
+##Tip Calculator ##
 
 ![](photo.png)
