@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main{
+    width: 900px;
+    height: 600px;
+    border-radius: 30px;
+    background-color: rgb(238, 232, 232);
+    
+}
+#first{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: large;
+}
+#up{
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+#down{
+    font-size: large;
+    justify-content: space-around;
+    display: flex;      
+    flex-direction: row;    
+}
+ input[type="checkbox"] {
+      width: 25px;
+      height: 25px;
+ }
