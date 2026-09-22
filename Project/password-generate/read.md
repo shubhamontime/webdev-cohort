@@ -1,3 +1,4 @@
 ## Password-generate ##
 
-![video proof](prove.mp4)
+
+<video src="./prove.mp4" controls width="700"></video>
